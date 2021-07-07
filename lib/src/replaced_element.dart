@@ -12,7 +12,7 @@ import 'package:flutter_html/src/widgets/iframe_unsupported.dart'
   if (dart.library.io) 'package:flutter_html/src/widgets/iframe_mobile.dart'
   if (dart.library.html) 'package:flutter_html/src/widgets/iframe_web.dart';
 import 'package:flutter_html/style.dart';
-import 'package:flutter_math_fork/flutter_math.dart';
+import 'package:flutter_math/flutter_math.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:html/dom.dart' as dom;
 import 'package:video_player/video_player.dart';
