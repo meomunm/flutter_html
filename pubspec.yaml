@@ -31,7 +31,8 @@ dependencies:
   flutter_svg: '>=0.22.0 <1.0.0'
 
   # Plugin for rendering MathML
-  flutter_math_fork: '>=0.3.2+1 <1.0.0'
+  flutter_math:
+    git: https://github.com/meomunm/flutter_math.git
 
   # plugin for firstWhereOrNull extension on lists
   collection: '>=1.15.0 <2.0.0'
